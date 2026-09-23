@@ -1,0 +1,6 @@
+{
+  "name": "BRAND SHOP — 3D Digital Fashion Showroom",
+  "description": "Immersive 3D fashion showroom for Brand Shop Baby & Women's Apparel featuring interactive floating garments, cinematic environments, and full CMS control.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
